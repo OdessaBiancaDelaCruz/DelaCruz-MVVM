@@ -1,2 +1,2 @@
 # DelaCruz-MVVM
-IPT_MVVM_Assignment
+This is my IPT 102 activity on MVVM
